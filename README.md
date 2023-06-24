@@ -1,4 +1,4 @@
-# Project Title
+# Pokemon App
 
 A Python app that fetches data about Pokémon from the Pokémon API.
 
